@@ -1,7 +1,7 @@
 # Netflix Data EDA using seaborn
 
 ## Problem Statement :
-Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
+I have taken sample Netflix data to analyze and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
 
 ## Insights :
 - Content creation has exploded post 2015, reaching maximum in 2018 
